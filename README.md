@@ -5,3 +5,5 @@ These lectures are for Chinese Literature in English at William & Mary. The slid
 [September 2](https://vierth.github.io/chineselitenglish/September%202.html)
 
 [September 4](https://vierth.github.io/chineselitenglish/September%204.html)
+
+[September 9](https://vierth.github.io/chineselitenglish/September%209.html)
